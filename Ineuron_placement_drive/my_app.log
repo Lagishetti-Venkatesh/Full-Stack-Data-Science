@@ -1,0 +1,20 @@
+2022-06-07 13:20:57,311 — File_operations — INFO — Content Written in a file: This is a placement assignment
+2022-06-07 13:20:57,317 — File_operations — INFO — content after modification of a file : This is a screening assignment
+2022-06-07 13:20:57,463 — class_operations:  — ERROR — Error raised when abstract method called :Can't instantiate abstract class Features with abstract methods new_features
+2022-06-07 13:20:57,472 — class_operations:  — INFO — Existing Features: 
+2022-06-07 13:20:57,478 — class_operations:  — INFO — 1. Raise in demand option 
+2. Mentor Support. 
+3. Career Guidance.
+4. Resume Preparation.
+
+
+2022-06-07 13:20:57,480 — class_operations:  — INFO — Executing the Abstract Method: 
+2022-06-07 13:20:57,481 — class_operations:  — INFO — 1. Weekend fun quizzes code
+2022-06-07 13:20:57,485 — class_operations:  — INFO — 2. Creating memes page like instagram page on python Machine learning and deep Learning
+
+
+2022-06-07 13:20:57,486 — class_operations:  — INFO — Using Decorators executing applying discount functions 
+2022-06-07 13:20:57,488 — class_operations:  — INFO — After the Discount: 10%, for 5year's final price : 10620.0
+2022-06-07 13:20:57,491 — class_operations:  — INFO — After the Discount: 10%, for 2year's final price : 6372.0
+2022-06-07 13:20:57,493 — class_operations:  — INFO — Count of courses in Kids neuron: 39
+2022-06-07 13:20:57,494 — class_operations:  — INFO — count of courses in tech neuron: 250
